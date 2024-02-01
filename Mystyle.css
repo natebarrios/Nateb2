@@ -1,0 +1,20 @@
+h2 {
+    Color: rgb(78, 121, 144);
+}
+
+
+body {
+    background-color: rgb(29, 119, 81);
+}
+
+
+body{
+    background-image:url(greypng.png)
+}
+.photo{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
